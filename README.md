@@ -4,7 +4,7 @@ I might make a portfolio, but have to come up with a design and think about what
 
 May take some time if I decide to make one.
 
-
+Thinking about Javascript, React, HTML, CSS
 
 
 
